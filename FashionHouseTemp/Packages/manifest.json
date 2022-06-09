@@ -1,4 +1,11 @@
 {
+    "scopedRegistries": [
+    {
+      "name": "iBicha",
+      "url": "https://registry.npmjs.com",
+      "scopes": [ "com.ibicha" ]
+    }
+  ],
   "dependencies": {
     "com.unity.collab-proxy": "1.14.15",
     "com.unity.ide.rider": "1.2.1",
@@ -43,6 +50,7 @@
     "com.unity.modules.video": "1.0.0",
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
-    "com.unity.modules.xr": "1.0.0"
+    "com.unity.modules.xr": "1.0.0",
+    "com.ibicha.youtube-player": "1.6.0"
   }
 }

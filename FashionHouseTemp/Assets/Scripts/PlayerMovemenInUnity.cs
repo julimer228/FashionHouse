@@ -12,7 +12,7 @@ public class PlayerMovemenInUnity : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        
         float x = Input.GetAxis("Horizontal");
         float z = Input.GetAxis("Vertical");
 
